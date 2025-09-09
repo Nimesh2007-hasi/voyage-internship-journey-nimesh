@@ -1,3 +1,4 @@
+import Comp1 from "./Componets/Comp1/Comp1";
 
 function App() {
  const age=18;
@@ -8,6 +9,7 @@ const getFullName=(f,m,l) =>{
 const arr= ["BMW","Porche","Ferrari"];
   return (
     <>
+    
       <h1 className='heading'>My First App with React</h1>
       <h1>Employee Details</h1>
       <p>Full Name: {getFullName("WG","Nimesh","Hasith")}</p>
@@ -21,6 +23,8 @@ const arr= ["BMW","Porche","Ferrari"];
         <li>Python</li>
 
       </ul>
+      <Comp1 />
+      
     </>
   )
 }
