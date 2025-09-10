@@ -38,8 +38,6 @@ console.log("8:", sum(1, 2, 3, 4));
 const doubled = [1, 2, 3].map(n => n * 2);
 console.log("9:", doubled);
 
-const doubledd = [2,4,6].map(n => n*5);
-console.log("9",doubledd);
 
 // 10) Array.filter
 const evens = [1, 2, 3, 4, 5, 6].filter(n => n % 2 === 0);
@@ -55,7 +53,7 @@ console.log("12-find:", arr.find(n => n > 8));
 console.log("12-some:", arr.some(n => n % 2 === 0)); 
 console.log("12-every:", arr.every(n => n > 0));     
 
-// 13) Object property shorthand & method shorthand 
+// 13) Object property shorthand and method shorthand 
 const brand = "BMW", model = "M3";
 const car = {
   brand, model,
@@ -75,7 +73,7 @@ console.log("15b:", user?.prefs?.lang ?? "en-US");
 
 // 16) Sets 
 const set = new Set([1, 1, 2, 3, 3]);
-console.log("16:", [...set]); // [1,2,3]
+console.log("16:", [...set]); 
 
 // 17) Maps  
 const m = new Map();
