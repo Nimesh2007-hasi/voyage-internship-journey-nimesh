@@ -8,7 +8,7 @@
 - Practiced modern JavaScript (ES6+)
 - Arrow functions, destructuring, async/await, array methods
 - Added `day2-es6.js` with 20+ examplesDay 3 – React Fundamentals
-- 
+  
 ## Day 3
 Tasks Completed
 - Created React app using Vite
@@ -16,4 +16,13 @@ Tasks Completed
 - Used JSX and inline styles for basic design
 - Combined components into a simple portfolio page
 
-- 
+# Day 4 
+
+Today I extended my portfolio app with new interactive components:  
+- Contact Form with validation  
+- Skills toggle section  
+- Todo App integrated into portfolio  
+Key Learnings:  
+- Used useSatatus for handling form inputs and toggles  
+- Practiced conditional rendering for skills section  
+- Built a functional Todo App with add ,delete features  
