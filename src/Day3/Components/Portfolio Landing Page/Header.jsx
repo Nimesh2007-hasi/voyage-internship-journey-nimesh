@@ -4,7 +4,7 @@ function Header() {
   
    
  const headerStyle = {
-    backgroundColor: "#192d1aff",
+    backgroundColor: "#0b530aff",
     color: "white",
     padding: "20px",
     textAlign: "center",

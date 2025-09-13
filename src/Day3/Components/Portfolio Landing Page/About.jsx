@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   const sectionStyle = {
-    backgroundColor: "#094e01",  
+    backgroundColor: "#0b6801ff",  
     padding: "15px",
     borderRadius: "10px"
   };
