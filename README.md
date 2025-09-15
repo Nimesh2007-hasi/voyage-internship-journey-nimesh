@@ -25,4 +25,12 @@ Today I extended my portfolio app with new interactive components:
 Key Learnings:  
 - Used useSatatus for handling form inputs and toggles  
 - Practiced conditional rendering for skills section  
-- Built a functional Todo App with add ,delete features  
+- Built a functional Todo App with add ,delete features
+
+# Day 5 - Portfolio App (Routing Setup)
+
+Work Completed
+- Added "Home Component" to display all portfolio sections together.
+- Implemented React Router  for navigation.
+- Connected Home, About, Projects, Contact, Skills, and ContactForm components.
+- Improved portfolio structure for better user experience.
