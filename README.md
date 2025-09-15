@@ -27,7 +27,7 @@ Key Learnings:
 - Practiced conditional rendering for skills section  
 - Built a functional Todo App with add ,delete features
 
-# Day 5 - Portfolio App (Routing Setup)
+# Day 5 
 
 Work Completed
 - Added "Home Component" to display all portfolio sections together.
